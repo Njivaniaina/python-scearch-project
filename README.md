@@ -17,7 +17,7 @@ A CLI-based image analysis tool powered by **Groq LLM (Llama 4 Scout)** and **Du
 
 ```bash
 git clone <repository-url>
-cd reconaise
+cd <repository-directory-name>
 ```
 
 ### 2. Create a virtual environment
